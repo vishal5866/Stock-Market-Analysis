@@ -30,13 +30,12 @@ Contributions are welcome! If you have suggestions, feature requests, or find an
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under t
 
 ## Contact
 
-- Author: Ammad Sohail Karar
-- Email: ammadkararuni@gmail.com
-- GitHub: [Your GitHub Profile]([https://github.com/your-username](https://github.com/ammadkarar786))
+- vishal bhaskar
+- Email: vishalbhaskar1502@gmail.com
 
 ## Visit Website
 
